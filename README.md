@@ -10,3 +10,5 @@ As I studied the official code, I found three minor problems with the official c
 2. Officially provided code-to-caffe model is error-prone and debug-prone.
 
 3. Official code is not easy to prune.
+
+The yolact_tiny model may be 40MB.
